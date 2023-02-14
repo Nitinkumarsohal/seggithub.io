@@ -1,0 +1,227 @@
+@media (max-width: 1399.98px) {
+    .section1 h3 {
+        width: 85%;
+    }
+    .section3 h5 {
+      
+        width: 35%;
+    }
+}
+ /* (large desktops, less than 1400px)  close   */
+
+
+
+
+@media (max-width: 1199.98px) {
+    .section1 h3 {
+        font-size:40px;
+        width: 100%;
+    }
+    .section1 p {
+        width: 97%;
+    }
+    .section2 h3{
+        width: 58%;
+    }
+    .section2 .p {
+        width: 84%;
+    }
+    .section3 h5 {
+        width: 80%;
+    }
+    .section3 .style-box p{
+        width: 100%;
+    }
+    .section5 .style-div .card-text h4 {
+        font-size: 20px;
+    } 
+ }
+/* (desktops, less than 1200px) close  */
+
+
+
+
+
+ @media (max-width: 991.98px) { 
+    .navbar-toggler{
+        background-color: #00c3ff;
+        padding: 8px 13px 8px 13px;
+        border: none;
+    }
+    .fa-bars{
+        color: white;
+        font-size:20px;
+
+    }
+
+    .navbar-toggler:focus{
+        box-shadow: none;
+        border: none;
+        outline: none;
+    }
+    .navbar-collapse {
+        background: white;
+        text-align: center;
+        padding: 18px;
+        border-radius: 10px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .form-1 {
+        width: 50%;
+        margin: auto;
+        display: block;
+    }
+    .fa-moon{
+        display: none !important;
+    }
+    /* HEADER CLOSE  */
+    .section1 {
+        padding: 30px 0px 30px 0px;
+    }
+    .section2{
+        padding: 30px 0px 30px 0px;
+
+    }
+    .section2 h3 {
+        width: 100%;
+    }
+    .section2 .p {
+        width: 100%;
+        padding-top: 5px;
+    }
+    .section2 .text-right .p2 {
+        width: 100%;
+    }
+    .section3 .style-box{
+        padding: 25px;
+    }
+    .section5 .style-div .card-text h4 {
+        font-size: 25px;
+    }
+    .testimonial4_slide p {
+        width: 76%;
+    }
+    .section5 {
+        padding: 30px 0px 30px 0px;
+    }
+    .section6{
+        padding: 30px 0px 30px 0px;
+
+
+    }
+ }
+ /* //  (tablets, less than 992px)  close */
+
+
+
+
+
+
+ @media (max-width: 767.98px) {
+    .section1{
+        padding: 15px 0px 15px 0px;
+    }
+    .section2{
+        padding: 15px 0px 15px 0px;
+    }
+    .section2 h3{
+        font-size: 25px;
+    }
+    .section2 .p{
+        font-size: 16px;
+    }
+    .section3{
+        padding: 15px 0px 15px 0px;
+    }
+    .section3 h5{
+        width: 100%;
+    }
+    .section3 .style-box {
+        padding: 20px;
+    }
+
+
+
+    .section4{
+        padding: 15px 0px 15px 0px;
+    }
+    .section4 .text-left h3 {
+        font-size: 25px;
+    }.section4 .btn-box button {
+        padding: 14px 25px 14px 25px;
+    }
+    .testimonial4_slide p {
+        width: 77%;
+    }
+    .section5 {
+        padding: 15px 0px 15px 0px;
+    }
+    .section6{
+        padding: 15px 0px 15px 0px;
+
+    }
+    .testimonial4_slide p {
+        font-size: 15px;
+    }
+    .last {
+        padding: 10px;
+        text-align: center;
+    }
+    .last span{
+        font-size: 14px;
+    }
+ }
+ /* (landscape phones, less than 768px) close  */
+
+
+
+
+
+
+ @media (max-width: 575.98px) {
+
+    .section1{
+        padding: 10px;
+    }
+    .section1 h3 {
+        font-size: 30px;
+    }
+    .section1 p {
+        padding-top: 10px;
+    }
+    .section2{
+        padding: 10px;
+
+    }
+    .section2 .text h4 {
+        font-size: 21px;
+    }
+    .section3{
+        padding: 10px;
+    }
+    .section3 h5 {
+        font-size: 22px;
+       
+    }
+    .section3 .style-box h3 {
+        font-size: 23px;
+        padding-top: 25px;
+    }
+    .section4{
+        padding: 10px;
+    }
+    .section4 .text-left h3{
+        font-size: 21px;
+    }
+    .section5 h4 {
+        font-size: 30px;
+    }
+    .section5 .style-div .card-text h4{
+        font-size: 20px;
+    }
+    footer .text h3 {
+        font-size: 24px;
+    }
+  }
+
+
